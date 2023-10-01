@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesAritmeticasMaui", "FuncionesAritmeticasMaui\FuncionesAritmeticasMaui.csproj", "{6C663EF6-6C37-4AED-9849-4D772210AF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C663EF6-6C37-4AED-9849-4D772210AF44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69C85B32-B73B-4C50-BD01-B151EBB90BEE}
+	EndGlobalSection
+EndGlobal
